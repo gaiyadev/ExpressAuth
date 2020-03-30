@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f41bbb2b-18e0-4de4-8829-be1e4e7cdad6" name="Default Changelist" comment="" />
+    <list default="true" id="f41bbb2b-18e0-4de4-8829-be1e4e7cdad6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
   <component name="FavoritesManager">
     <favorites_list name="loginSystem" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y4SOIsH8gT464mL2NNEJBQ914M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -62,7 +68,7 @@
       <workItem from="1582379364514" duration="725000" />
       <workItem from="1582533112996" duration="53000" />
       <workItem from="1582954728343" duration="361000" />
-      <workItem from="1585577993616" duration="284000" />
+      <workItem from="1585577993616" duration="568000" />
     </task>
     <servers />
   </component>

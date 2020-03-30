@@ -52,7 +52,7 @@ mongoose.connect('mongodb://localhost:27017/nodeAuth');
 //.....Sending the sending option
         let mailOptions = {
             from: newUser.email,
-            to: 'gaiyaobed94@gmail.com',
+            to: 'xxx@xxx.com',
             subject: 'Node mailer',
             text: "You have a new form Registration with the following details.." + "Name:" + newUser.name + " " + "email"  + " " + newUser.email
         };
